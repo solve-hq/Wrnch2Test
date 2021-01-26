@@ -20,6 +20,10 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>​_wrnch-pose._tcp</string>
+	</array>
 	<key>NSCameraUsageDescription</key>
 	<string>So you can play the games</string>
 	<key>NSLocalNetworkUsageDescription</key>
